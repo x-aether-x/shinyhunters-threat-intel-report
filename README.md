@@ -16,7 +16,7 @@ This project demonstrates practical skills in:
 ---
 
 ## Contents
-- **`Threat_Intel_Report.pdf-style.md`** — Full polished intelligence brief  
+- **`Threat_Intel_Report.md`** — Full polished intelligence brief  
 - **`attack_chain_diagram.png`** - A diagram of how the attack happened 
 - **`ioc_list.md`** - List of data points used to find this info
 - **`methodology.md`** — How the research was conducted  
